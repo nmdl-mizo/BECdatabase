@@ -14,7 +14,7 @@ This repository contains the Born effective charge (BEC) database used in our pu
 - **BaTiO3_LDA_database.xyz**  
   BaTiO3 BEC database used in Citation [5].
   
-- **HfZrO2_PBEsol_database.xyz** 
+- **HfZrO2_PBEsol_database.xyz**  
   HfZrO2 BEC database used in Citation [6].
 
 
