@@ -13,6 +13,9 @@ This repository contains the Born effective charge (BEC) database used in our pu
 
 - **BaTiO3_LDA_database.xyz**  
   BaTiO3 BEC database used in Citation [5].
+- **HfZrO2_PBEsol_database.xyz**
+  HfZrO2 BEC database used in Citation [6].
+
 
 
 ## Citation
@@ -89,4 +92,17 @@ If you use this database in your research, please cite the corresponding publica
   year={2026},
   doi={10.2109/jcersj2.25164}
       }
+```
+
+### Citation [6]
+```
+@misc{sahashi2026transientdetourcooperativeoxygen,
+      title={Transient Detour and Cooperative Oxygen Exchange in the Polarization Switching of Ferroelectric Hf0.5Zr0.5O2},
+      author={Ryotaro Sahashi and Po-Yen Chen and Teruyasu Mizoguchi},
+      year={2026},
+      eprint={2607.26597},
+      archivePrefix={arXiv},
+      primaryClass={cond-mat.mtrl-sci},
+      url={https://arxiv.org/abs/2607.26597},
+}
 ```
