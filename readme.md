@@ -17,6 +17,8 @@ This repository contains the Born effective charge (BEC) database used in our pu
 - **HfZrO2_PBEsol_database.xyz**  
   HfZrO2 BEC database used in Citation [6].
 
+- **BaTiO3_r2SCAN_database.xyz**  
+  BaTiO3 BEC database used in Citation [7].
 
 
 ## Citation
@@ -105,5 +107,18 @@ If you use this database in your research, please cite the corresponding publica
       archivePrefix={arXiv},
       primaryClass={cond-mat.mtrl-sci},
       url={https://arxiv.org/abs/2607.26597},
+}
+```
+
+### Citation [7]
+```
+@misc{sahashi2026atomisticoriginstraincontrol,
+      title={Atomistic origin and strain control of the finite-temperature dielectric response in BaTiO3},
+      author={Ryotaro Sahashi and Po-Yen Chen and Teruyasu Mizoguchi},
+      year={2026},
+      eprint={2609.07219},
+      archivePrefix={arXiv},
+      primaryClass={cond-mat.mtrl-sci},
+      url={https://arxiv.org/abs/2609.07219},
 }
 ```
